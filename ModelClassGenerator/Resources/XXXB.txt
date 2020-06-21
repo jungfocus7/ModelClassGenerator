@@ -1,0 +1,1 @@
+﻿	tsb.Append(string.Format(""{0} = {{0}}, "", {0}));

@@ -1,0 +1,11 @@
+public class {0}
+{{
+{1}
+{2}
+}}
+public class {0}Collection : ObservableCollection<{0}>
+{{
+	public {0}Collection() : base() {{ }}
+	public {0}Collection(IEnumerable<{0}> tclt) : base(tclt) {{ }}
+	public {0}Collection(List<{0}> tlst) : base(tlst) {{ }}
+}}
